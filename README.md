@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Odinachi
-- 👀 I’m interested in web and mobile development using python and javascript
+- 👀 I’m interested in web and mobile development using Django, Reactjs and Flutter
 - 🌱 I’m currently learning Reactjs and Django
 - 📫 you can reach me on odinachidavid@gmail.com
 
