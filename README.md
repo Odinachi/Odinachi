@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Reactjs and Django
 - 📫 you can reach me on odinachidavid@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/[Odinachi])
+
+![](https://komarev.com/ghpvc/?username=Odinachi&color=green)
+
 
 
 <!---
