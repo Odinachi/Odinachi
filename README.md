@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Odinachi
-- 👀 I’m interested in web and mobile development using Django, Reactjs and Flutter
-- 🌱 I’m currently learning Reactjs and Django
+- 👀 I’m interested in mobile development using Flutter and everything around it
+- 🌱 I’m currently learning Flutter animations
 - 📫 you can reach me on odinachidavid@gmail.com
 
 
