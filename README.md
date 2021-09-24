@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **odinachidavid@gmail.com**
 
-- ⚡ Fun fact **I love animations, gadgets and tech. **
+- ⚡ Fun fact **I love animations, gadgets and Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
