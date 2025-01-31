@@ -1,61 +1,80 @@
-<h1 align="center">Hi 👋, I'm Odinachi David </h1>
-<h3 align="center">A passionate cross platform mobile developer(flutter), who's very interested in user experience and giving the customer what to look forward to.  👀</h3>
+<body id="top">  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Odinachi&label=Profile%20views&color=0e75b6&style=flat" alt="Odinachi" /> </p>
+## Hi, I am Odinachi David, A Mobile Engineer ✨
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Odinachi" alt="Odinachi" /></a> </p>
+I am always eager to learn new technologies and develop new projects. </p>
 
-<p align="left"> <a href="https://twitter.com/odinachidavid" target="blank"><img src="https://img.shields.io/twitter/follow/odinachidavid?logo=twitter&style=for-the-badge" alt="odinachidavid" /></a> </p>
+## 👨‍💻 My technical expertise
+
+I'm a Mobile Engineer with deep technical expertise in:
+
+- Flutter and Dart programming languages
+- Building custom UI/UX designs
+- Integrating RESTful APIs
+- Integrating with WebSockets
+- Firebase integration
+- Third-party libraries and APIs integration
+- Agile methodology
+
+<!-- ## 🚀 My achievements 
+
+- Successfully led the development of [Project Name], which has been downloaded over [Number] times from the App Store and Google Play Store.
+- Created [Number] custom Flutter widgets that have been used in multiple projects.
+- Developed a Flutter plugin that has been downloaded and used by over [Number] developers worldwide. -->
+
+## 📚 Articles and Talks
+
+I enjoy discussing Flutter, mobile engineering, tooling and sharing insights with others. If you're looking for a
+speaker or panelist for your event, please contact me!
+
+### Technologies
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+     <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### My Github Stats
+
+[![Odinachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odinachi&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Odinachi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odinachi&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Odinachi)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Odinachi&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Odinachi's streak" /></p>
+
+## Github Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Odinachi&theme=algolia&column=5">
+
+## Wakatime Stats
+
+[![wakatime](https://wakatime.com/badge/user/de292009-a573-4d1b-a7c9-13313653c981.svg)](https://wakatime.com/@de292009-a573-4d1b-a7c9-13313653c981)
+
+ <p>
+    <img src="https://wakatime.com/share/@Odinachi/399d3a13-aa62-4a9d-b6da-67eb1474aac2.svg" height="320" width="420">
+ </p> 
+
+### 📫 You can reach me here:
+
+<a href="https://www.linkedin.com/in/odinachi-david/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+<a href="mailto:odinachidavid@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" />
+</a>
+ <a href="https://twitter.com/odinachidavid" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ </a>
+<a href="https://odinachi.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
 
 
 
-- 🌱 I’m currently learning **Flutter, Flutter Animations**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Odinachi](https://github.com/Odinachi)
-
-
-- 💬 Ask me about **flutter, Animations, Python, backend**
-
-- 📫 How to reach me **odinachidavid@gmail.com**
-
-- ⚡ Fun fact **I love animations, gadgets and Tech**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://twitter.com/odinachidavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odinachidavid" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/odinachi-david-9a6b77195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/odinachi-david-9a6b77195" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/Odinachidavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/Odinachidavid" height="30" width="40" /></a> </p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Odinachi&show_icons=true&locale=en&layout=compact" alt="Odinachi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Odinachi&show_icons=true&locale=en" alt="Odinachi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Odinachi&" alt="Odinachi" /></p>
+</body>
