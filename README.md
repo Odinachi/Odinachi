@@ -1,16 +1,17 @@
 <body id="top">  
 
-## Hi, I am Odinachi David, A Mobile Engineer ✨
+## Hi, I am Odinachi David, A Mobile App Engineer ✨
 
 I am always eager to learn new technologies and develop new projects. </p>
 
 ## 👨‍💻 My technical expertise
 
-I'm a Mobile Engineer with deep technical expertise in:
+I'm a Mobile App Engineer with deep technical expertise in:
 
 - Flutter and Dart programming languages
 - Building custom UI/UX designs
 - Integrating RESTful APIs
+- Integrating GraphQl
 - Integrating with WebSockets
 - Firebase integration
 - Third-party libraries and APIs integration
