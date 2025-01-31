@@ -27,7 +27,7 @@ I'm a Mobile Engineer with deep technical expertise in:
 I enjoy discussing Flutter, mobile engineering, tooling and sharing insights with others. If you're looking for a
 speaker or panelist for your event, please contact me!
 
-### Technologies
+## Technologies
 
 <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -47,7 +47,7 @@ speaker or panelist for your event, please contact me!
     <img src="https://img.shields.io/badge/WebSocket-1E8EBC?style=for-the-badge&logo=websocket&logoColor=white" />
 </p>
 
-### My Github Stats
+## My Github Stats
 
 [![Odinachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odinachi&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Odinachi)
 
@@ -67,7 +67,7 @@ speaker or panelist for your event, please contact me!
     <img src="https://wakatime.com/share/@Odinachi/399d3a13-aa62-4a9d-b6da-67eb1474aac2.svg" height="320" width="420">
  </p> 
 
-### 📫 You can reach me here:
+## 📫 You can reach me here:
 
 <a href="https://www.linkedin.com/in/odinachi-david/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
